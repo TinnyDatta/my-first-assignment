@@ -1,0 +1,78 @@
+/* header styles */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,600;1,800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,600;1,800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+.banner{
+    background-image: url('../resources/Banner\ Image.png');
+    width:1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    border-radius: 16px;
+    margin-left: 140px;
+    margin-bottom: 120px;
+   }
+ .banner-text{
+    display: block;
+    color: red;
+text-align: center;
+font-family:Merriweather ;
+}
+#year{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+
+}
+h2{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+width: 632px;
+height: 190px;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+padding: 233px 344px 177px 344px;
+}
+/* 65% off section */
+.holiday{
+    text-align: center;
+}
+.off{
+    color: #F00;
+font-size: 88px;
+font-weight: 700;
+margin-bottom: 48px;
+}
+p{
+    color: #F00;
+font-size: 24px;
+font-weight: 500;
+}
+#all{
+    color: #070211;
+font-size: 48px;
+font-weight: 700;
+margin-top: 16px;
+margin-bottom: 48px;
+}
+
+
+
+
+ 
