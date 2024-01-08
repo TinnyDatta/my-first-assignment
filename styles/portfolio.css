@@ -205,6 +205,7 @@ margin-top: 64px;
     width: 1320px;
     height: 463px;
     display: flex;
+    margin-bottom: 120px;
     
 }
 .offer-title{
@@ -267,12 +268,66 @@ margin-left: 118px;
     border-spacing: 45px;
 }
 
+/* 50% sale section */
+.sale{
+width: 81%;
+max-width: 1320px;
+margin-left: 140px;
+}
+.all-texts{
+    text-align: center;
+}
+.small-paragraph{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 16px;
+}
+small{
+    color: #F00;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+}
+h5{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+margin-bottom: 28px;
+}
+.sale-description{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px; /* 160% */
+margin-left: 266px;
+margin-right: 266px;
+}
+.girl-image{
+    position: relative;
+    left: 65%;
+}
+.sale-red-logo{
+    position: relative;
+    left: 20%;
+}
 
+
+.large-red-shade{
+    width: 1320px;
+height: 229px;
+    border-radius: 16px 0px 16px 16px;
+
+
+}
 
 /* awesome  section */
 .gift {
     width: 81%;
-    max-width: 1320pxpx;
+    max-width: 1320px;
     margin-left: 140px;
     margin-right: 140px;
     margin-top: 120px;
