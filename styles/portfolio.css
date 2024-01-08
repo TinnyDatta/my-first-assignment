@@ -24,6 +24,7 @@
     margin-left: 140px;
     margin-bottom: 120px;
     margin: 0 auto;
+    background-color: #070211, #07021100;
 }
 
 .banner-text {
@@ -40,7 +41,7 @@
     font-size: 32px;
     font-weight: 400;
     margin-top: 177px;
-   
+
 
 }
 
@@ -105,52 +106,102 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
+
 }
 
-#banner2h1{
+#banner2h1 {
     color: #FFF;
     font-family: Merriweather;
     font-size: 64px;
-font-weight: 900;
-line-height: 88px; /* 137.5% */
-letter-spacing: 7.04px;
-margin-left: 126px;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    margin-left: 126px;
 
 
 }
-.para-primary{
+
+.para-primary {
     color: #ffffffcc;
-font-family: Inter;
-font-size: 18px;
-font-weight: 400;
-line-height: 30px; /* 166.667% */
-width: 697px;
-margin-top: 24px;
-margin-left: 126px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    width: 697px;
+    margin-top: 24px;
+    margin-left: 126px;
 }
-.first-btn{
+
+.first-btn {
     color: #FFF;
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-weight: 700;
-margin-top: 48px;
-margin-left: 158px;
-background-color: #07021100;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 48px;
+    margin-left: 158px;
+    background-color: #07021100;
 }
 
-.banner2-image{
+.banner2-image {
     width: 319.83px;
-height: 464.662px;
-margin-right: 138px;
+    height: 464.662px;
+    margin-right: 138px;
 
 }
-/* awesome  section */
-.awesome{
 
-    width: 1320px;
-    height: 600px;
+/* awesome  section */
+.awesome {
+    width: 81%;
+    max-width: 1320px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 120px;
+    align-items: center;
+
+}
+
+.awesome-text {
+    margin-left: 140px;
+    text-align: left;
+
+}
+
+.p-awesome {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+
+}
+
+.awesome-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+}
+
+.para-second {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    ;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+    width: 896px;
+    margin-bottom: 48px;
+}
+
+.awesome-images {
+    display: block;
+    gap: 24px;
 
 
 }
