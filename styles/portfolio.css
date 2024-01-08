@@ -280,8 +280,79 @@ border: none;
     border-radius: 50px;
 }
 
+footer{
+background-color: #070211;
+height: 650px;
+}
+.location{
+    width: 81%;
+    max-width: 1320px;
+    margin: 120px 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-paragraph .venue-location{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+margin-top: 120px;
+width: 375px;
 
+}
+.contact{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+margin-top: 120px;
+}
+.website{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
 
+#call{
+    margin-right: 16px;
+}
+#web{
+    margin-right: 16px;
+}
+.break{
+   color:#FFFFFF26 ;
+   margin-top: 20px;
+   margin-bottom: 48px;
+ 
+}
+.social-icon{
+   margin-right: 140px;
+    text-align: center;
+}
+.footer-last{
+    display: flex;
+    justify-content: space-between;
+    }
+
+.reserved{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 120px;
+margin-left: 140px;
+}
+.footer-last{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-right: 140px;
+}
 
 
    
