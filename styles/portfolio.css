@@ -12,6 +12,7 @@
 }
 
 
+
 .banner {
     background-image: url('../resources/Banner\ Image.png');
     width: 1320px;
@@ -54,13 +55,10 @@ margin-top: 16px;
 /* 65% off section */
 .holiday {
     text-align: center;
-   margin-bottom: 120px;
    width: 100%;
     max-width: 1320px;
     margin: 0 auto;
-    margin-left: 140px;
-    margin-right: 140px;
-
+   margin: 120px 140px;
 }
 
 
@@ -201,12 +199,12 @@ margin-top: 64px;
 }
 /* best offer section */
 .best-offer{
-    margin-top: 120px;
+    margin-bottom: 120px;
     margin-left: 140px;
     width: 1320px;
     height: 463px;
     display: flex;
-    margin-bottom: 120px;
+    margin-top: 120px;
     
 }
 .offer-title{
@@ -274,6 +272,7 @@ margin-left: 118px;
 width: 81%;
 max-width: 1320px;
 margin-left: 140px;
+margin-top: 120px;
 }
 .all-texts{
     text-align: center;
@@ -331,8 +330,8 @@ height: 229px;
     max-width: 1320px;
     margin-left: 140px;
     margin-right: 140px;
+ 
     margin-top: 120px;
-    margin-bottom: 120px;
     align-items: center;
     position: relative;
     left: 30px;
@@ -476,6 +475,7 @@ height: 229px;
 footer {
     background-color: #070211;
     height: 650px;
+    margin-top: 120px;
 }
 
 .location {
